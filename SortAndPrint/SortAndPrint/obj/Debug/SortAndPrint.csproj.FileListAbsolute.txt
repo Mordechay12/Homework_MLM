@@ -1,0 +1,8 @@
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\bin\Debug\SortAndPrint.exe.config
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\bin\Debug\SortAndPrint.exe
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\bin\Debug\SortAndPrint.pdb
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\obj\Debug\SortAndPrint.csproj.AssemblyReference.cache
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\obj\Debug\SortAndPrint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\obj\Debug\SortAndPrint.csproj.CoreCompileInputs.cache
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\obj\Debug\SortAndPrint.exe
+C:\Users\Mordechay\source\repos\Homework_MLM\SortAndPrint\SortAndPrint\obj\Debug\SortAndPrint.pdb
