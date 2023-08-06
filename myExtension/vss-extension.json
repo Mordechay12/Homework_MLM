@@ -1,0 +1,36 @@
+{
+  "manifestVersion": 1,
+  "id": "AssemblyInfoModifier",
+  "name": "AssemblyInfoModifier",
+  "version": "0.0.1",
+  "publisher": "Marcos",
+  "targets": [
+    {
+      "id": "Microsoft.VisualStudio.Services"
+    }
+  ],
+  "description": "Modify AssemblyInfo with Node.js",
+  "categories": [
+    "Azure Pipelines"
+  ],
+  "icons": {
+    "default": "buildAndRelease/extension-icon.png"
+  },
+  "files": [
+    {
+      "path": "buildAndRelease"
+    }
+  ],
+  "contributions": [
+    {
+      "id": "Marcos",
+      "type": "ms.vss-distributed-task.task",
+      "targets": [
+        "ms.vss-distributed-task.tasks"
+      ],
+      "properties": {
+        "name": "buildAndRelease"
+      }
+    }
+  ]
+}
